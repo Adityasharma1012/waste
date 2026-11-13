@@ -1,0 +1,122 @@
+[
+  {
+    "id": "kb-foodsafety-cold-charts",
+    "title": "Cold Food Storage Guidelines (Refrigerator & Freezer)",
+    "sourceName": "FoodSafety.gov — Cold Food Storage Charts",
+    "url": "https://www.foodsafety.gov/food-safety-charts/cold-food-storage-charts",
+    "retrievalDate": "2026-11-12",
+    "verified": true,
+    "tags": ["fridge", "freezer", "temperature", "leftovers", "meat", "poultry", "dairy", "seafood", "storage"],
+    "content": "Keep your refrigerator at 40°F (4°C) or below and your freezer at 0°F (-18°C) or below. Most cooked leftovers stay safe in the refrigerator for 3 to 4 days. Raw poultry and ground meats keep only 1 to 2 days refrigerated before cooking or freezing. Food kept continuously frozen at 0°F (-18°C) remains safe indefinitely, although flavor and texture quality may gradually decline over months."
+  },
+  {
+    "id": "kb-usda-dating",
+    "title": "Understanding Food Product Dating (Best if Used By vs. Use-By)",
+    "sourceName": "USDA FSIS — Food Product Dating",
+    "url": "https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/food-safety-basics/food-product-dating",
+    "retrievalDate": "2026-11-12",
+    "verified": true,
+    "tags": ["date", "labels", "best before", "best if used by", "use by", "sell by", "quality", "safety"],
+    "content": "Except for infant formula, federal regulations do not mandate product dating, and calendar dates on packages generally indicate peak quality rather than food safety. 'Best if Used By / Before' indicates when a product will have its best flavor and quality. 'Sell-By' tells stores how long to display inventory. If food has been handled and stored properly, shelf-stable items often remain wholesome past a quality date unless damaged or spoiled."
+  },
+  {
+    "id": "kb-wrap-date-labels",
+    "title": "Use-By vs. Best-Before Date Labels & Freezing Before Expiry",
+    "sourceName": "Love Food Hate Waste / WRAP",
+    "url": "https://www.lovefoodhatewaste.com/",
+    "retrievalDate": "2026-11-12",
+    "verified": true,
+    "tags": ["use by", "best before", "freeze", "bread", "dairy", "meat", "smell", "appearance", "safety"],
+    "content": "'Use By' dates appear on perishable foods such as meat, fish, and chilled dairy and strictly concern food safety: never eat food past its Use-By date and never rely on smell or appearance because dangerous bacteria like Listeria do not alter odor or look. You can freeze most foods with a Use-By date right up until the printed date, then consume promptly after defrosting in the fridge. 'Best Before' is about quality on dry pasta, bread, and pantry goods."
+  },
+  {
+    "id": "kb-usda-leftovers",
+    "title": "Leftovers Safety, Two-Hour Rule, and Reheating to 165°F",
+    "sourceName": "USDA FSIS — Leftovers and Food Safety",
+    "url": "https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/food-safety-basics/leftovers-and-food-safety",
+    "retrievalDate": "2026-11-12",
+    "verified": true,
+    "tags": ["leftovers", "cooked", "reheat", "two hour rule", "shallow containers", "165", "rice", "fridge"],
+    "content": "Follow the Two-Hour Rule: refrigerate perishable cooked food within 2 hours of cooking (or within 1 hour if room or outdoor temperature exceeds 90°F). Divide large batches into shallow containers for rapid cooling. Refrigerated leftovers should be eaten or frozen within 3 to 4 days. When reheating leftovers, heat thoroughly to an internal temperature of 165°F (74°C) and bring sauces, soups, and gravies to a rolling boil."
+  },
+  {
+    "id": "kb-usda-freezing",
+    "title": "Freezing and Safe Thawing Practices",
+    "sourceName": "USDA FSIS — Freezing and Food Safety",
+    "url": "https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/food-safety-basics/freezing-and-food-safety",
+    "retrievalDate": "2026-11-12",
+    "verified": true,
+    "tags": ["freezing", "freezer", "thaw", "defrost", "chicken", "meat", "bread", "0F", "-18C"],
+    "content": "Keeping food at 0°F (-18°C) or below keeps food safe indefinitely because freezing makes microorganisms dormant, though it does not destroy existing bacteria or reverse spoilage that already occurred. Never thaw perishable food on the kitchen counter; use safe thawing methods in the refrigerator, in cold water changed every 30 minutes, or in the microwave followed immediately by cooking."
+  },
+  {
+    "id": "kb-foodsafety-4steps",
+    "title": "4 Steps to Food Safety & When in Doubt Throw It Out",
+    "sourceName": "FoodSafety.gov — 4 Steps to Food Safety",
+    "url": "https://www.foodsafety.gov/keep-food-safe/4-steps-to-food-safety",
+    "retrievalDate": "2026-11-12",
+    "verified": true,
+    "tags": ["safety", "danger zone", "bacteria", "smell", "appearance", "doubt", "chill", "cook", "clean"],
+    "content": "The four steps to food safety are Clean, Separate, Cook, and Chill. Harmful bacteria multiply rapidly in the Danger Zone between 40°F and 140°F (4°C to 60°C). Because pathogenic bacteria generally do not change the taste, smell, or look of food, you cannot determine safety by sniffing or tasting. Whenever storage history or safety is uncertain: when in doubt, throw it out."
+  },
+  {
+    "id": "kb-foodsafety-power-outage",
+    "title": "Food Safety During a Power Outage",
+    "sourceName": "FoodSafety.gov — Food Safety During a Power Outage",
+    "url": "https://www.foodsafety.gov/food-safety-charts/food-safety-during-power-outage",
+    "retrievalDate": "2026-11-12",
+    "verified": true,
+    "tags": ["power outage", "outage", "warm", "fridge", "freezer", "throw it out", "doubt"],
+    "content": "A closed refrigerator keeps food safe for about 4 hours during a power outage; a full freezer holds safe temperatures around 48 hours (24 hours if half full) if kept shut. Discard refrigerated perishable foods such as meat, poultry, fish, eggs, milk, and leftovers held above 40°F for more than 2 hours. Never taste food to test if it is safe after an outage—when in doubt, throw it out."
+  },
+  {
+    "id": "kb-epa-home-waste",
+    "title": "Preventing Wasted Food at Home",
+    "sourceName": "U.S. EPA — Preventing Wasted Food at Home",
+    "url": "https://www.epa.gov/recycle/reducing-wasted-food-home",
+    "retrievalDate": "2026-11-12",
+    "verified": true,
+    "tags": ["waste", "planning", "produce", "spinach", "tomatoes", "storage", "eat first", "pantry"],
+    "content": "Households can prevent avoidable waste by taking inventory before shopping, designating an 'Eat First' zone in the fridge for perishable items nearing expiry, freezing surplus bread, meat, and chopped produce before it spoils, and keeping pantry staples in cool, dry, sealed containers. Preventing food waste saves household grocery money and reduces landfill methane emissions."
+  },
+  {
+    "id": "kb-epa-warm",
+    "title": "Greenhouse Gas Impact of Food Waste & Source Reduction",
+    "sourceName": "U.S. EPA — Waste Reduction Model (WARM)",
+    "url": "https://www.epa.gov/warm",
+    "retrievalDate": "2026-11-12",
+    "verified": true,
+    "tags": ["co2e", "emissions", "climate", "warm", "beef", "poultry", "dairy", "vegetables", "impact"],
+    "content": "The EPA Waste Reduction Model (WARM) distinguishes food categories such as beef, poultry, dairy, grains, bread, and fruits/vegetables because upstream farm-to-retail production dominates life-cycle greenhouse gas emissions. Animal-based foods (especially beef and dairy) have substantially higher CO2e intensity per kilogram than plant foods. Source reduction (preventing food waste altogether) yields far greater emission savings than composting or landfill diversion."
+  },
+  {
+    "id": "kb-foodkeeper",
+    "title": "USDA FoodKeeper Storage Time Guidance",
+    "sourceName": "FoodSafety.gov / USDA — FoodKeeper App",
+    "url": "https://www.foodsafety.gov/keep-food-safe/foodkeeper-app",
+    "retrievalDate": "2026-11-12",
+    "verified": true,
+    "tags": ["foodkeeper", "storage", "pantry", "fridge", "freezer", "milk", "eggs", "vegetables"],
+    "content": "The USDA FoodKeeper database provides item-by-item storage windows across pantry, refrigerator, and freezer conditions to help households maximize freshness and avoid premature disposal while honoring safe cold-storage timelines."
+  },
+  {
+    "id": "kb-wrap-bakery-cake",
+    "title": "Storing Cakes, Bread, and Baked Goods Safely & Freezing Portions",
+    "sourceName": "Love Food Hate Waste / WRAP & FoodSafety.gov",
+    "url": "https://www.lovefoodhatewaste.com/",
+    "retrievalDate": "2026-11-12",
+    "verified": true,
+    "tags": ["cake", "cakes", "bakery", "bread", "pastry", "frosting", "cream", "freeze", "storage", "store", "fridge"],
+    "content": "Plain sponge cakes and bread keep best in an airtight container in a cool, dry pantry for short-term storage, and freeze exceptionally well at 0°F (-18°C) or below for longer life: cut cake into individual slices before freezing and place parchment or greaseproof paper between slices so you can defrost only what you need. Cakes with perishable frostings or fillings (whipped cream, cream cheese, or custard) must be refrigerated at 40°F (4°C) or below and never left at room temperature over 2 hours (1 hour above 90°F)."
+  },
+  {
+    "id": "kb-placeholder-unverified",
+    "title": "Unverified Placeholder Passage (Excluded From Grounded RAG)",
+    "sourceName": "Placeholder — Do Not Cite",
+    "url": "https://example.invalid/unverified-placeholder",
+    "retrievalDate": "2026-11-12",
+    "verified": false,
+    "tags": ["placeholder", "unverified"],
+    "content": "This placeholder record demonstrates that unverified passages are strictly excluded from RAG indexing and grounded responses."
+  }
+]

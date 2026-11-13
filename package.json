@@ -1,0 +1,23 @@
+{
+  "name": "wasteless-ai",
+  "version": "1.0.0",
+  "private": true,
+  "description": "WasteLess AI — household food-waste-reduction assistant (Expo Web + Android + Fastify API)",
+  "workspaces": [
+    "packages/core",
+    "server",
+    "app"
+  ],
+  "scripts": {
+    "build:core": "npm --workspace=@wasteless/core run build",
+    "build:server": "npm --workspace=@wasteless/core run build && npm --workspace=@wasteless/server run build",
+    "build:web": "npm --workspace=@wasteless/core run build && npm --workspace=app run export:web",
+    "dev:server": "npm --workspace=@wasteless/core run build && npm --workspace=@wasteless/server run dev",
+    "dev:app": "npm --workspace=@wasteless/core run build && npm --workspace=app run start",
+    "dev:web": "npm --workspace=@wasteless/core run build && npm --workspace=app run web",
+    "serve:web": "node scripts/serve-web.mjs",
+    "start:server": "node server/dist/index.js",
+    "test": "npm --workspace=@wasteless/core run test && npm --workspace=@wasteless/server run test",
+    "typecheck": "npm --workspace=@wasteless/core run typecheck && npm --workspace=@wasteless/server run typecheck && npm --workspace=app run typecheck"
+  }
+}
